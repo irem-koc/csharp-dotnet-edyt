@@ -11,7 +11,7 @@ for (int i = 0; i < course2.Count; i++)
 }
 Console.WriteLine("finito");
 
-
+Console.WriteLine("test");
 //IndividualCustomer customer1 = new();
 //customer1.Id = 1;
 //customer1.NationalIdentity = "12345678922";
